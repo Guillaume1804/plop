@@ -1,0 +1,11 @@
+Mercure est la planète la plus proche du Soleil et la moins massive du Système solaire. Son 
+éloignement du Soleil est compris entre 0,31 et 0,47 unité astronomique, ce qui correspond à 
+une excentricité ... 
+Distance du Soleil : 58 millions km 
+Durée du jour : 59j 0h 0m 
+Rayon : 2 439,7 km 
+Masse : 3,285 × 10^23 kg (0,055 M⊕) 
+Période orbitale : 88 jours 
+Gravité : 
+3,7 m/s² 
+Superficie : 74,8 millions km²

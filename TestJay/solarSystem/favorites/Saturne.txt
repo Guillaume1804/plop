@@ -1,0 +1,10 @@
+Saturne est la sixième planète du Système solaire par ordre d'éloignement au Soleil, et la 
+deuxième plus grande par la taille et la masse après Jupiter, qui est comme elle une planète 
+géante gazeuse.
+Masse : 5,683 × 10^26 kg (95,16 M⊕) 
+Rayon : 58 232 km 
+Distance du Soleil : 1,434 milliard km 
+Durée du jour : 0j 10h 34m 
+Gravité : 10,44 m/s² 
+Superficie : 42,7 milliards km² 
+Lunes : Titan, Encelade, Mimas, Dioné, Japet, Téthys, Hypérion...

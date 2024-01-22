@@ -1,0 +1,17 @@
+Jupiter est la cinquième planète du Système solaire par ordre d'éloignement au Soleil, et la 
+plus grande par la taille et la masse devant Saturne, qui est comme elle une planète géante 
+gazeuse. 
+Distance du Soleil : 
+778,5 millions km 
+Gravité : 
+24,79 m/s² 
+Rayon : 
+69 911 km 
+Masse : 
+1,898 × 10^27 kg (317,8 M⊕) 
+Durée du jour : 
+0j 9h 56m 
+Superficie : 
+61,42 milliards km² 
+Lunes : 
+Europe, Io, Ganymède, Callisto, Amalthée, Jupiter LXI...

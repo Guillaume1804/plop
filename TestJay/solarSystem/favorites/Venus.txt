@@ -1,0 +1,10 @@
+Vénus est la deuxième planète du Système solaire par ordre d'éloignement au Soleil, et la 
+sixième plus grosse aussi bien par la masse que le diamètre. Vénus orbite autour du Soleil tous 
+les 224,7 jours terrestres. 
+Distance du Soleil : 108,2 millions km 
+Rayon : 6 051,8 km 
+Durée du jour : 243j 0h 0m 
+Masse : 4,867 × 10^24 kg (0,815 M⊕) 
+Période orbitale : 225 jours 
+Gravité : 8,87 m/s² 
+Superficie : 460,2 millions km²

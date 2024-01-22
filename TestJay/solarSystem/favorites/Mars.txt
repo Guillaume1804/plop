@@ -1,0 +1,11 @@
+Mars est la quatrième planète du Système solaire par ordre croissant de la distance au Soleil 
+et la deuxième par ordre croissant de la taille et de la masse. Son éloignement au Soleil est 
+compris entre 1,381 et 1,666 UA, avec une période orbitale de 669,58 jours martiens.
+Gravité : 3,71 m/s² 
+Distance du Soleil : 227,9 millions km 
+Rayon : 3 389,5 km 
+Durée du jour : 
+1j 0h 37m 
+Superficie : 144,4 millions km² 
+Période orbitale : 687 jours 
+Lunes : Phobos, Déimos
